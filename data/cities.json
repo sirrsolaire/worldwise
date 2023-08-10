@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Castillejo de Robledo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-10T10:46:05.768Z",
+      "notes": "",
+      "position": {
+        "lat": "41.5579215778042",
+        "lng": "-3.4497070312500004"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Puente del Congosto",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-10T10:46:08.617Z",
+      "notes": "",
+      "position": {
+        "lat": "40.51379915504413",
+        "lng": "-5.51513671875"
+      },
+      "id": 2
+    }
+  ]
+}
